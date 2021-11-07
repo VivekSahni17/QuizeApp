@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quize App</string>
+    <string name="stay_connected">Stay Connected</string>
+    <string name="enter_your_email_address_and_password_to_get_access_to_you_account">Enter your Email Address And Password To Get Access To You Account.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="description">Description</string>
+</resources>
